@@ -10,7 +10,7 @@ Every pixel in a photo turns the nearest color in 6 colors. And the result;
 ![output-onlinepngtools (1)](https://user-images.githubusercontent.com/49093505/81481625-284b3f80-923a-11ea-839e-6aef409dc970.png)
 ![output-onlinepngtools](https://user-images.githubusercontent.com/49093505/81481598-06ea5380-923a-11ea-88f1-5027cc128cf1.png)
 
-
+In this example some places are painted wrong color. I Thing it makes it better :)
 I must confess the hardest part in this project is choose the similar color. 
 First I tried to RGB numbers. I had the pixel RGB numbers from photo and 6 main color numbers then I found the nearest main color number to my pixel RGB numbers and it was not the correct color. Color's word was more crazy then I though. In my first try RGB numbers were the similest but colors almost opposite. I though how can I fix this problem and I found a solution. 
 It is not the best but It works.
